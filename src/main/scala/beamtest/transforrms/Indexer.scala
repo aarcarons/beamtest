@@ -1,4 +1,4 @@
-package example.transforrms
+package beamtest.transforrms
 
 import com.spotify.scio.values.SCollection
 

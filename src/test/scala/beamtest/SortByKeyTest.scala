@@ -1,7 +1,7 @@
-package example
+package beamtest
 
 import com.spotify.scio.testing.PipelineSpec
-import example.transforrms.SorterByKey
+import beamtest.transforrms.SorterByKey
 
 class SortByKeyTest extends PipelineSpec {
   "Sorter" should "sort by term name" in {

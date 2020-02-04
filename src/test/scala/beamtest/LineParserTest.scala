@@ -1,6 +1,6 @@
-package example
+package beamtest
 
-import example.transforrms.LineParser
+import beamtest.transforrms.LineParser
 import org.scalatest._
 import org.scalatest.matchers.should._
 

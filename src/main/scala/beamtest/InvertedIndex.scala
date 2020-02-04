@@ -1,8 +1,8 @@
-package example
+package beamtest
 
 import com.spotify.scio._
 import com.spotify.scio.values.SCollection
-import example.transforrms.{Indexer, LineParser, SorterByKey}
+import beamtest.transforrms.{Indexer, LineParser, SorterByKey}
 import org.apache.beam.sdk.io.FileSystems
 
 import scala.collection.JavaConverters._

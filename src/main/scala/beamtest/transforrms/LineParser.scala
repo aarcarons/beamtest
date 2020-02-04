@@ -1,4 +1,4 @@
-package example.transforrms
+package beamtest.transforrms
 
 object LineParser {
   def parse(line: String): Iterable[String] =
